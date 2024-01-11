@@ -14,8 +14,8 @@ if(answer1.toUpperCase() === correctAnswer1){
     console.log("You got it wrong...");
 }
 
-const answer2 = prompt("what is the brain of the computer? ");
-const correctAnswer2 = "CPU";
+const answer2 = prompt("What does SSD stands for?");
+const correctAnswer2 = "Solid State Drive";
 
 if(answer2.toUpperCase() === correctAnswer2){
     console.log("You got it Correct");
@@ -24,8 +24,8 @@ if(answer2.toUpperCase() === correctAnswer2){
     console.log("You got it wrong...");
 }
 
-const answer3 = prompt("what is the brain of the computer? ");
-const correctAnswer3 = "CPU";
+const answer3 = prompt("what is Half-Byte called? ");
+const correctAnswer3 = "Nibble";
 
 if(answer3.toUpperCase() === correctAnswer3){
     console.log("You got it Correct");
